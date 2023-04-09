@@ -4,7 +4,7 @@ Run: python code_{$index}.py
 Dataset: AppleStore.csv [Collected from 'DataQuest']
 URL: 
 
-# Dictionary
+## Dictionary
 1 - Checking for Membership
 2 - Updating Dictionary Values
 NULL - Counting with Dictionaries
