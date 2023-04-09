@@ -6,7 +6,7 @@
 
 ## Python Dictionaries and Frequency Tables
 [1 - Checking for Membership](code_1.py)  <br/>
-[2 - Updating Dictionary Values](https://github.com/Nahid-theTechNerd/DataQuest/blob/master/code_2.py)  <br/>
+[2 - Updating Dictionary Values](code_2.py)  <br/>
 NULL - Counting with Dictionaries  <br/>
-[3 - Finding the Unique Values](https://github.com/Nahid-theTechNerd/DataQuest/blob/master/code_3.py)  <br/>
-[4 - Proptions and Percentages](https://github.com/Nahid-theTechNerd/DataQuest/blob/master/code_4.py)  <br/>
+[3 - Finding the Unique Values](code_3.py)  <br/>
+[4 - Proptions and Percentages](code_4.py)  <br/>
