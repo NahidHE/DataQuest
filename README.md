@@ -27,5 +27,12 @@ NULL - The Return Statement <br/>
 
 ## Python Functions: Arguments, Parameters, and Debugging
 [14 - Extract Values from Any Column](code_14.py) <br/>
-[15 - ](code_15.py) <br/>
-
+[14 - Creating Frequency Tables](code_14.py) <br/>
+[14 -  Writing a Single Function](code_14.py) <br/>
+[15 - Reusability and Multiple Parameters](code_15.py) <br/>
+[16 - Keyword and Positional Arguments](code_16.py) <br/>
+[17 - ](code_17.py) <br/>
+[18 - ](code_18.py) <br/>
+[19 - ](code_19.py) <br/>
+[20 - ](code_20.py) <br/>
+[21 - ](code_21.py) <br/>
