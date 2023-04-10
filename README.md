@@ -21,8 +21,11 @@ NULL - Frequency Tables for Numerical Columns  <br/>
 [9 -  Functions](code_9.py)  <br/>
 [10 - Built-In Functions](code_10.py) <br/>
 [11 - Creating Our Own Functions](code_11.py) <br/>
-[12 - ](code_12.py) <br/>
-[13 - ](code_13.py) <br/>
-[14 - ](code_14.py) <br/>
+[12 - The Structure of a Function](code_12.py) <br/>
+[13 - Parameters and Arguments](code_13.py) <br/>
+NULL - The Return Statement <br/>
+
+## Python Functions: Arguments, Parameters, and Debugging
+[14 - Extract Values from Any Column](code_14.py) <br/>
 [15 - ](code_15.py) <br/>
 
