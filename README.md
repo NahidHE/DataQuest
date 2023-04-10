@@ -14,11 +14,13 @@ NULL - Counting with Dictionaries  <br/>
 NULL - Keeping the Dictionaries Separate  <br/>
 [6 - Keeping the Dictionaries Separate](code_6.py)  <br/>
 NULL - Frequency Tables for Numerical Columns  <br/>
-[7 - ](code_7.py)  <br/>
-[8 - ](code_8.py)  <br/>
-[9 - ](code_9.py)  <br/>
-[10 - ](code_10.py) <br/>
-[11 - ](code_11.py) <br/>
+[7 - Frequency Tables for Numerical Columns](code_7.py)  <br/>
+[8 - Filtering for the Intervals](code_8.py)  <br/>
+
+## Python Functions: Using Built-in Functions and Creating Functions
+[9 -  Functions](code_9.py)  <br/>
+[10 - Built-In Functions](code_10.py) <br/>
+[11 - Creating Our Own Functions](code_11.py) <br/>
 [12 - ](code_12.py) <br/>
 [13 - ](code_13.py) <br/>
 [14 - ](code_14.py) <br/>
