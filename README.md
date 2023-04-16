@@ -34,7 +34,7 @@ NULL - The Return Statement <br/>
 [17 - Combining Functions](code_17.py) <br/>
 [18 - Debugging Functions](code_18.py) <br/>
 
-## New Chapter
-[19 - ](code_19.py) <br/>
-[20 - ](code_20.py) <br/>
-[21 - ](code_21.py) <br/>
+## Python Functions: Returning Multiple Variables and Function Scopes
+[19 - Returning Multiple Variables](code_19.py) <br/>
+[20 -  Tuples](code_20.py) <br/>
+[21 - More About Tuples](code_21.py) <br/>
