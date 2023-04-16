@@ -1,6 +1,6 @@
 
-def open_dataset(file_name='AppleStore.csv', header=True):        
-    opened_file = open(file_name, encoding='UTF-8')
+def open_dataset(file_name='AppleStore.csv', header=True): 
+    opened_file = open(file_name, encoding='utf-8')
     from csv import reader
     read_file = reader(opened_file)
     data = list(read_file)
