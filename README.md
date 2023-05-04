@@ -48,4 +48,4 @@ NULL - Scopes — Searching Order <br/>
 [26 - Jupyter Notebook II](code_26.ipynb) <br/>
 [27 - Jupyter Notebook III](code_27.ipynb) <br/>
 
-* The End *
+**The End**
