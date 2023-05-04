@@ -48,22 +48,4 @@ NULL - Scopes — Searching Order <br/>
 [26 - Jupyter Notebook II](code_26.ipynb) <br/>
 [27 - Jupyter Notebook III](code_27.ipynb) <br/>
 
-## New
-[28 - ](code_28.py) <br/>
-[29 - ](code_29.py) <br/>
-[30 - ](code_30.py) <br/>
-[31 - ](code_31.py) <br/>
-[32 - ](code_32.py) <br/>
-[33 - ](code_33.py) <br/>
-[34 - ](code_34.py) <br/>
-[35 - ](code_35.py) <br/>
-[36 - ](code_36.py) <br/>
-[37 - ](code_37.py) <br/>
-[38 - ](code_38.py) <br/>
-[39 - ](code_39.py) <br/>
-[40 - ](code_40.py) <br/>
-[41 - ](code_41.py) <br/>
-[42 - ](code_42.py) <br/>
-[43 - ](code_43.py) <br/>
-[44 - ](code_44.py) <br/>
-[45 - ](code_45.py) <br/>
+* The End *
